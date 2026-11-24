@@ -1,6 +1,6 @@
 # Contributing to AI Rebuilds
 
-The full guide is on the site: **[ai-rebuilds.com/contribute](https://ai-rebuilds.com/contribute/)**.
+The full guide is on the site: **[ai-rebuilds.com/contribute](https://vip-4.github.io/ai-rebuilds/contribute/)**.
 
 ## Suggest a project (no code)
 
@@ -9,7 +9,7 @@ Open the [suggestion form](https://github.com/a-barzanti/ai-rebuilds/issues/new?
 ## Add a project yourself
 
 1. Add an object to `"projects"` in [`data/projects.json`](data/projects.json). See the
-   [field reference](https://ai-rebuilds.com/contribute/#fields).
+   [field reference](https://vip-4.github.io/ai-rebuilds/contribute/#fields).
 2. Set `"added"` on your entry, and `"updated"` at the top of the file, to today's date (`YYYY-MM-DD`).
 3. `bun run sync` regenerates the list in `index.html` and `README.md`, and the feed in `feed.xml`.
 4. `bun run check`, then open a pull request.
@@ -31,7 +31,7 @@ Listing is not endorsement. Rights holders and project maintainers can ask for c
 Maintainers of a listed project can add a badge that links to their entry. Replace `your-id` with the entry's `id`:
 
 ```md
-[![Listed on AI Rebuilds](https://ai-rebuilds.com/assets/badge.svg)](https://ai-rebuilds.com/#your-id)
+[![Listed on AI Rebuilds](https://vip-4.github.io/ai-rebuilds/assets/badge.svg)](https://vip-4.github.io/ai-rebuilds/#your-id)
 ```
 
 ## Local preview

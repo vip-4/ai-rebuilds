@@ -41,7 +41,7 @@
     bar.setAttribute("role", "region");
     bar.setAttribute("aria-label", "Analytics consent");
     bar.innerHTML =
-      '<p>Can we count your visit with Google Analytics? It helps us see which projects people look for. <a href="/privacy/">Details</a></p>' +
+      '<p>Can we count your visit with Google Analytics? It helps us see which projects people look for. <a href="/ai-rebuilds/privacy/">Details</a></p>' +
       '<button type="button" class="btn btn-primary" data-v="granted">Allow</button>' +
       '<button type="button" class="btn" data-v="denied">No thanks</button>';
     bar.addEventListener("click", function (e) {

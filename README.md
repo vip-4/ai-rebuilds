@@ -1,13 +1,13 @@
-<p align="center"><a href="https://ai-rebuilds.com"><img src="assets/logo-512.png" width="96" height="96" alt="AI Rebuilds"></a></p>
+<p align="center"><a href="https://vip-4.github.io/ai-rebuilds"><img src="assets/logo-512.png" width="96" height="96" alt="AI Rebuilds"></a></p>
 
 # AI Rebuilds
 
 **A tracked list of software and games rebuilt from the outside in.** It covers apps written by AI agents, game
 decompilations finished with Claude, engine reimplementations, and the clean-room classics that came first.
 
-**[Browse, search and filter it at ai-rebuilds.com →](https://ai-rebuilds.com)**
+**[Browse, search and filter it at ai-rebuilds.com →](https://vip-4.github.io/ai-rebuilds)**
 
-Follow new entries with the [Atom feed](https://ai-rebuilds.com/feed.xml).
+Follow new entries with the [Atom feed](https://vip-4.github.io/ai-rebuilds/feed.xml).
 
 [![List updated](https://img.shields.io/github/last-commit/a-barzanti/ai-rebuilds/main?path=data%2Fprojects.json&label=list%20updated)](data/projects.json)
 [![Stars](https://img.shields.io/github/stars/a-barzanti/ai-rebuilds?style=flat)](https://github.com/a-barzanti/ai-rebuilds/stargazers)
@@ -15,7 +15,7 @@ Follow new entries with the [Atom feed](https://ai-rebuilds.com/feed.xml).
 
 Every entry says what it rebuilds, how it was done (clean-room, reimplementation, decompilation, port…) and whether AI
 was involved. GitHub stars and last-commit dates are refreshed automatically every week. Want to make your own? Read
-the guide to [rebuilding software with REA](https://ai-rebuilds.com/guide/), the open-source reverse-engineering
+the guide to [rebuilding software with REA](https://vip-4.github.io/ai-rebuilds/guide/), the open-source reverse-engineering
 toolkit for AI agents.
 
 If this list is useful to you, **star the repo**. It helps other people find it.
@@ -23,7 +23,7 @@ If this list is useful to you, **star the repo**. It helps other people find it.
 ## The list
 
 <!-- list:start -->
-_84 projects. List updated 19 Nov 2026; GitHub stars refreshed 23 Nov 2026. Browse, search and filter it at [ai-rebuilds.com](https://ai-rebuilds.com)._
+_84 projects. List updated 19 Nov 2026; GitHub stars refreshed 23 Nov 2026. Browse, search and filter it at [ai-rebuilds.com](https://vip-4.github.io/ai-rebuilds)._
 
 - [ArtCraft Crafting Apps](#artcraft-crafting-apps)
 - [Software rebuilt with AI](#software-rebuilt-with-ai)

@@ -158,7 +158,7 @@
   }
 
   // The toolbar is sticky on wide screens and its height changes when the chips wrap. Tell the CSS
-  // how tall it is, so links to an entry (/#wine) stop below it instead of underneath it.
+  // how tall it is, so links to an entry (/ai-rebuilds/#wine) stop below it instead of underneath it.
   var toolbar = document.querySelector(".toolbar");
   function measureToolbar() {
     var sticky = getComputedStyle(toolbar).position === "sticky";

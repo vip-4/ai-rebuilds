@@ -15,8 +15,8 @@ Last reviewed 16 Nov 2026.
 | Pull request: add to "Other lists" | [bobeff/open-source-games#147](https://github.com/bobeff/open-source-games/pull/147) | Open, no reply yet. The repo last merged a pull request in Feb 2026 and has 30 open |
 | Suggestion issue for "Related Collections" | [reacher-z/Awesome-REA#2547](https://github.com/reacher-z/Awesome-REA/issues/2547) | Accepted 4 Nov 2026. Listed in the README and at [awesomerea.org](https://awesomerea.org/resources/ai-rebuilds-directory/) |
 | Idea posted: a "related directories" section | [replicraft/remade#354](https://github.com/replicraft/remade/discussions/354) | Open since 16 Nov 2026 |
-| Atom feed of new entries, linked from every page | [`feed.xml`](https://ai-rebuilds.com/feed.xml) | Live since 16 Nov 2026 |
-| "Listed on AI Rebuilds" badge with copy-paste snippets | [Contribute page](https://ai-rebuilds.com/contribute/#badge), `assets/badge.svg` | Live since 16 Nov 2026. Offered on the site only; don't ask projects to add it |
+| Atom feed of new entries, linked from every page | [`feed.xml`](https://vip-4.github.io/ai-rebuilds/feed.xml) | Live since 16 Nov 2026 |
+| "Listed on AI Rebuilds" badge with copy-paste snippets | [Contribute page](https://vip-4.github.io/ai-rebuilds/contribute/#badge), `assets/badge.svg` | Live since 16 Nov 2026. Offered on the site only; don't ask projects to add it |
 | First outside suggestion (pgrust) answered and added | [#1](https://github.com/a-barzanti/ai-rebuilds/issues/1) | Done 16 Nov 2026 |
 
 Check the open pull request from time to time and answer reviewers quickly. The fork
@@ -43,7 +43,7 @@ site up without being asked: `flexdinero/REA-Playbook` and `miles990/rea-case-ra
 - [x] **Social preview.** Uploaded by 19 Nov 2026; GitHub serves `assets/social-preview.png` as the repo's link card.
 - [x] **Analytics.** On since 19 Nov 2026, through Google Tag Manager container `GTM-MSJT73V2`, whose GA4 tag
   sends to `G-CYQHS3F65L`. It loads only after a visitor chooses Allow. The ID is `TAG_ID` in `assets/js/analytics.js`.
-- [x] **Google Search Console.** Verified on 19 Nov 2026 as a URL-prefix property for `https://ai-rebuilds.com/`,
+- [x] **Google Search Console.** Verified on 19 Nov 2026 as a URL-prefix property for `https://vip-4.github.io/ai-rebuilds/`,
   with `google1f29e96c426cae2c.html` at the site root (keep that file, or verification lapses). Sitemap submitted.
 - [ ] **Hacker News**, then **Reddit**, then **X / Bluesky**. Drafts are below. Nothing is on Hacker News yet.
 - [ ] **Keep the list growing.** New entries each week give people a reason to come back and give you something new to post.
@@ -56,7 +56,7 @@ Submit at <https://news.ycombinator.com/submit>. Post on a weekday between 8 and
 (14:00–16:00 in Italy). Stay around for the first two hours to answer comments.
 
 - **Title:** `Show HN: AI Rebuilds – a tracked list of software rebuilt by AI agents and clean-room teams`
-- **URL:** `https://ai-rebuilds.com`
+- **URL:** `https://vip-4.github.io/ai-rebuilds`
 - **First comment:**
 
 > AI agents are now rebuilding Photoshop clones, finishing N64 decompilations and porting browser engines. I wanted
@@ -79,7 +79,7 @@ expect you to take part in the community as well.
 ### X / Bluesky / Mastodon
 
 > Software and games, rebuilt from the outside in. 84 projects, from the 1984 Phoenix BIOS to apps written by AI
-> agents last month, each labelled by method and AI involvement. Updated weekly. https://ai-rebuilds.com
+> agents last month, each labelled by method and AI involvement. Updated weekly. https://vip-4.github.io/ai-rebuilds
 
 Attach `assets/social-preview.png` if the link card doesn't load.
 
@@ -91,7 +91,7 @@ Short, for X / Bluesky / Mastodon:
 
 > New on AI Rebuilds: pgrust, a Rust reimplementation of PostgreSQL built by one developer directing coding agents,
 > mainly Codex. It speaks the Postgres wire protocol and is in beta. Suggested by a reader.
-> https://ai-rebuilds.com/#pgrust
+> https://vip-4.github.io/ai-rebuilds/#pgrust
 
 Longer, for LinkedIn or a subreddit that allows it:
 
@@ -109,8 +109,8 @@ Longer, for LinkedIn or a subreddit that allows it:
 >
 > It is still a beta, and the authors say themselves that passing a test suite does not make the code correct.
 >
-> Entry: https://ai-rebuilds.com/#pgrust
-> All AI-built projects on the list: https://ai-rebuilds.com/?ai=built
+> Entry: https://vip-4.github.io/ai-rebuilds/#pgrust
+> All AI-built projects on the list: https://vip-4.github.io/ai-rebuilds/?ai=built
 
 The figures come from the pgrust README and the author's write-up. Check them again if you post later than November.
 
@@ -124,7 +124,7 @@ take tools, and Hacker Newsletter picks from Hacker News, so the Show HN post ha
 
 > Hi,
 >
-> A link your readers might like: AI Rebuilds, https://ai-rebuilds.com
+> A link your readers might like: AI Rebuilds, https://vip-4.github.io/ai-rebuilds
 >
 > It is a list of 84 projects that rebuild existing software and games. Coding agents are now producing Photoshop
 > clones, a C compiler that builds the Linux kernel and a Rust reimplementation of Postgres. The list puts them next
@@ -136,7 +136,7 @@ take tools, and Hacker Newsletter picks from Hacker News, so the Show HN post ha
 > It is a personal project with no ads and nothing to sell.
 >
 > Repo: https://github.com/a-barzanti/ai-rebuilds
-> Feed: https://ai-rebuilds.com/feed.xml
+> Feed: https://vip-4.github.io/ai-rebuilds/feed.xml
 >
 > Thanks,
 > Alessandro
@@ -144,9 +144,9 @@ take tools, and Hacker Newsletter picks from Hacker News, so the Show HN post ha
 ### Follow-ups that work well
 
 - **Filtered links.** The site keeps filters in the URL, so you can share exactly the slice you're talking about.
-  - Only AI-built projects: <https://ai-rebuilds.com/?ai=built>
-  - Only game decompilations: <https://ai-rebuilds.com/?category=ai-games>
-  - Search "photoshop": <https://ai-rebuilds.com/?q=photoshop>
+  - Only AI-built projects: <https://vip-4.github.io/ai-rebuilds/?ai=built>
+  - Only game decompilations: <https://vip-4.github.io/ai-rebuilds/?category=ai-games>
+  - Search "photoshop": <https://vip-4.github.io/ai-rebuilds/?q=photoshop>
 - **Weekly "new on the list" post.** Write one short post per week naming the entries added that week.
 - **Write-up.** A blog post on dev.to or Medium about the AI clean-room question: the chardet dispute, ArtCraft and
   decomp.dev closing its index. Link the list as the source.

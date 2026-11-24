@@ -7,7 +7,7 @@ body:
     id: entry
     attributes:
       label: Which entry?
-      description: The project name, or its link on ai-rebuilds.com (for example https://ai-rebuilds.com/#openrct2).
+      description: The project name, or its link on ai-rebuilds.com (for example https://vip-4.github.io/ai-rebuilds/#openrct2).
     validations:
       required: true
   - type: dropdown

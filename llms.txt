@@ -1,0 +1,37 @@
+# AI Rebuilds
+
+> A tracked list of software and games rebuilt from the outside in: AI-built clean-room apps,
+> game decompilations, engine reimplementations, and the clean-room classics that came first.
+> This is a GitHub Pages mirror of the upstream directory at https://github.com/a-barzanti/ai-rebuilds.
+
+## Key facts
+
+- Canonical URL: https://vip-4.github.io/ai-rebuilds/
+- Upstream source: https://github.com/a-barzanti/ai-rebuilds
+- Entries: 84 projects in 7 categories (list updated 19 Nov 2026; GitHub stars refreshed 23 Nov 2026).
+- Method labels used per entry: AI-built, AI-assisted, Clean-room, Reimplementation, Decompilation, Port.
+- The site hosts no software or downloads; every entry links to its authors' own project page.
+- The list is updated weekly; new entries are published through the Atom feed at feed.xml.
+
+## Categories (in page order)
+
+1. ArtCraft Crafting Apps
+2. Software rebuilt with AI
+3. Games rebuilt with AI
+4. Game engine reimplementations
+5. Decompilations and recompilations
+6. Clean-room classics
+7. Tools for rebuilders
+
+## How to cite
+
+Cite the directory as: "AI Rebuilds, a tracked list of software and games rebuilt by AI and clean-room teams",
+https://vip-4.github.io/ai-rebuilds/ . For an individual project, cite that project's own source page
+linked from the corresponding entry.
+
+## Machine-readable files
+
+- HTML: https://vip-4.github.io/ai-rebuilds/
+- Atom feed: https://vip-4.github.io/ai-rebuilds/feed.xml
+- Sitemap: https://vip-4.github.io/ai-rebuilds/sitemap.xml
+- Structured data: WebSite, CollectionPage, FAQPage and BreadcrumbList JSON-LD in the homepage <head>.

@@ -488,7 +488,7 @@ pre code {
   }
 }
 
-/* Links to a category or an entry (/#wine) must land below the sticky toolbar as well as the header.
+/* Links to a category or an entry (/ai-rebuilds/#wine) must land below the sticky toolbar as well as the header.
    site.js measures the toolbar and sets --toolbar-h; 124px is its usual height. */
 @media (min-width: 900px) {
   .group,
@@ -1052,3 +1052,14 @@ pre code {
 .chip-empty:not([aria-pressed="true"]) {
   opacity: 0.45;
 }
+
+
+/* GEO: static FAQ, visible to readers and to crawlers */
+.geo-faq { margin: 3rem 0 1rem; }
+.geo-faq h2 { font-size: 1.35rem; margin: 0 0 1rem; }
+.geo-faq-grid { display: grid; gap: .7rem; }
+.geo-faq details { background: var(--paper-raised); border: 1px solid var(--line); border-radius: var(--r); padding: .85rem 1rem; }
+.geo-faq summary { cursor: pointer; font-weight: 600; color: var(--ink); }
+.geo-faq details p { color: var(--ink-soft); line-height: 1.65; margin: .65rem 0 0; }
+.geo-faq a { color: var(--teal); }
+@media (max-width: 640px) { .geo-faq-grid { grid-template-columns: 1fr; } }

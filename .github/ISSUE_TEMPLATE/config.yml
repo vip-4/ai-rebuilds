@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: Browse the list
-    url: https://ai-rebuilds.com/
+    url: https://vip-4.github.io/ai-rebuilds/
     about: Check whether the project is already listed.
   - name: Rebuild something with REA
-    url: https://ai-rebuilds.com/guide/
+    url: https://vip-4.github.io/ai-rebuilds/guide/
     about: How to use coding agents and REA to rebuild software.

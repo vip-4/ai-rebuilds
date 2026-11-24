@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks! Check [the list](https://ai-rebuilds.com/) first. Projects that host the original's code, binaries or assets, or link to pirated copies, can't be listed.
+        Thanks! Check [the list](https://vip-4.github.io/ai-rebuilds/) first. Projects that host the original's code, binaries or assets, or link to pirated copies, can't be listed.
   - type: input
     id: name
     attributes:
